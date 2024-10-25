@@ -4,5 +4,5 @@ for i in range(0, 6):
     print('<img src="https://stats.free-dc.org/cpidtagb.php?cpid=\
 40c8b1f60a21f24ba8a10eced8737a04\
 &cols=1&theme=%d">' % j)
-  print('<br>')
+  # print('<br>')
 print('</body></html>')
